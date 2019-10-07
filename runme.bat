@@ -1,0 +1,1 @@
+scrapy runspider scraper.py -o ketqua.csv
